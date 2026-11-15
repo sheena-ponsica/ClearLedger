@@ -1,0 +1,6 @@
+{
+  "name": "ClearLedger",
+  "description": "Personal budget tracker for categorizing expenses and visualizing monthly spending patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
